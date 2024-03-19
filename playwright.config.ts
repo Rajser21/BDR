@@ -37,6 +37,7 @@ export default defineConfig({
       use: { ...devices['Desktop Chrome'] },
     },
 
+    /*npx
     {
       name: 'firefox',
       use: { ...devices['Desktop Firefox'] },
